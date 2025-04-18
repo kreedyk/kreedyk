@@ -16,6 +16,7 @@ Hello! I'm **Nia**, better known as **Kreed**. I'm a 3D modeling specialist, rig
   <img src="https://img.shields.io/badge/Source_Engine-FF7800?style=for-the-badge&logo=valve&logoColor=white" />
   <img src="https://img.shields.io/badge/Game_Modding-3A0CA3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
