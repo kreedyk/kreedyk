@@ -10,6 +10,22 @@ Hello! I'm **Nia**, better known as **Kreed**. I'm a 3D modeling specialist, rig
 - Currently working at **4A Games**
 - Formerly at **Shmoops Games**
 
+## ⭐ Featured Projects
+<div align="center">
+  <a href="https://github.com/kreedyk/weather-alert-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=weather-alert-system&theme=dracula" />
+  </a>
+  <a href="https://github.com/kreedyk/file-timestamp-changer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=file-timestamp-changer&theme=dracula" />
+  </a>
+  <a href="https://github.com/kreedyk/simpleGUI-dll-injector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=simpleGUI-dll-injector&theme=dracula" />
+  </a>
+  <a href="https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=7dtd-Anti-Cheat-Prototype&theme=dracula" />
+  </a>
+</div>
+
 ## 🔧 Skills & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
