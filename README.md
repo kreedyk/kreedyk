@@ -15,10 +15,10 @@ Hello! I'm **Nia**, better known as **Kreed**. I'm a 3D modeling specialist, rig
   <a href="https://github.com/kreedyk/weather-alert-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=weather-alert-system&theme=dracula" />
   </a>
-  <a href="https://github.com/kreedyk/file-timestamp-changer">
+  <a href="https://github.com/kreedyk/screenshot-to-text">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=file-timestamp-changer&theme=dracula" />
   </a>
-  <a href="https://github.com/kreedyk/simpleGUI-dll-injector">
+  <a href="https://github.com/kreedyk/re4-lfs-memory">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=simpleGUI-dll-injector&theme=dracula" />
   </a>
   <a href="https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype">
