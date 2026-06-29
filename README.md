@@ -1,58 +1,41 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/98678652?v=4" width="100px" alt="Profile Picture"/>
-  <h1>👋 Hey People!</h1>
+  <img src="https://avatars.githubusercontent.com/u/98678652?v=4" width="90px" style="border-radius:50%" alt="Profile Picture"/>
+
+  ### Nia ∙ Kreed
+
+  3D artist, rigger & game modder turned programmer.  
+  Building tools in **C++** and **Python** for the games I love to break apart.
+
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/kreed1)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.kreedy.net)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@kreedy.net)
 </div>
 
-## 💫 About Me
-Hello! I'm **Nia**, better known as **Kreed**. I'm a 3D modeling specialist, rigger, and game modder. Starting in programming, focusing on C++
-- **Modder** focused on character creation and rigging
-- Can rig practically anything: humans, animals, monsters, you name it!
-- Currently working at **4A Games**
-- Formerly at **Shmoops Games**
+---
 
-## ⭐ Featured Projects
-<div align="center">
-  <a href="https://github.com/kreedyk/weather-alert-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=weather-alert-system&theme=dracula" />
-  </a>
-  <a href="https://github.com/kreedyk/screenshot-to-text">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=screenshot-to-text&theme=dracula" />
-  </a>
-  <a href="https://github.com/kreedyk/re4-lfs-memory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=re4-lfs-memory&theme=dracula" />
-  </a>
-  <a href="https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kreedyk&repo=7dtd-Anti-Cheat-Prototype&theme=dracula" />
-  </a>
-</div>
+#### What I do
 
-## 🔧 Skills & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Source_Engine-FF7800?style=for-the-badge&logo=valve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Modding-3A0CA3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+- **Modding tools** — DLL trainers, Blender addons, file format reversing
+- **3D & Rigging** — Characters, creatures, hair, anything that needs bones
+- **Community stuff** — Discord bots, web tools, automation
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreedyk&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Currently at **4A Games** · Previously at **Shmoops Games**
 
-## 🔗 Connect With Me
-<div align="center">
-  <a href="https://www.patreon.com/kreed1">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-  <a href="discord.kreedy.net">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:nia.kreedy.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+#### Projects
+
+| | |
+|---|---|
+| [**re4-lfs-memory**](https://github.com/kreedyk/re4-lfs-memory) | RE4 LFS decompression — pure C++ header-only library |
+| [**7dtd-Anti-Cheat-Prototype**](https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype) | Anti-cheat prototype DLL for 7 Days to Die |
+| [**screenshot-to-text**](https://github.com/kreedyk/screenshot-to-text) | Screen capture → OCR text extraction |
+
+#### Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Source Engine](https://img.shields.io/badge/Source_Engine-FF7800?style=flat-square&logo=valve&logoColor=white)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kreedyk&color=blueviolet&style=flat-square&label=Profile+Visits" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=kreedyk&color=blueviolet&style=flat-square&label=Visits" alt="Visitor Counter" />
 </div>
