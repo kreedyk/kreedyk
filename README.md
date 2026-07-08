@@ -25,9 +25,9 @@ Currently at **4A Games** · Previously at **Shmoops Games**
 
 | | |
 |---|---|
-| [**re4-lfs-memory**](https://github.com/kreedyk/re4-lfs-memory) | RE4 LFS decompression — pure C++ header-only library |
-| [**7dtd-Anti-Cheat-Prototype**](https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype) | Anti-cheat prototype DLL for 7 Days to Die |
-| [**screenshot-to-text**](https://github.com/kreedyk/screenshot-to-text) | Screen capture → OCR text extraction |
+| [**re4-lfs-memory**](https://github.com/kreedyk/re4-lfs-memory) | RE4 LFS decompression header-only library |
+| [**x86-memory-editor**](https://github.com/kreedyk/x86-memory-editor) | Pure x86 assembly memory editor |
+| [**7dtd-anti-cheat-prototype**](https://github.com/kreedyk/7dtd-Anti-Cheat-Prototype) | Anti-cheat prototype DLL for 7 Days to Die |
 
 #### Tools
 
